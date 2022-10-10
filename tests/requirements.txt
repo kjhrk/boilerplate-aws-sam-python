@@ -1,0 +1,4 @@
+# 対象となるコードの実行に必要なライブラリ群
+pytest
+boto3
+requests
